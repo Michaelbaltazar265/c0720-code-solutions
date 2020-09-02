@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "c0720-code-solutions",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "array-filter",
+		"liveServer.settings.port": 5502
+	}
+}

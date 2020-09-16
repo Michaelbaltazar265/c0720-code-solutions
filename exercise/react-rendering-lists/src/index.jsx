@@ -7,11 +7,10 @@ const pokedex = [
   { number: '025', name: 'Pikachu' },
   { number: '039', name: 'Jigglypuff' }
 ];
-const newPokedox = pokedex.map((props) =>
-  <li>{props.name}</li>
+const newPokedox = pokedex.map(props =>
+  <li key={props.number}> {props.name} </li>
 );
 ReactDOM.render(
   <ul>{newPokedox}</ul>,
   document.getElementById('root')
 );
-

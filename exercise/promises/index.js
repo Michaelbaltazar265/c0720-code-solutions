@@ -7,7 +7,7 @@ michael.then(value => {
     });
 
 michael.catch(err => { 
-    console.log(err)
+    console.log(err.message)
 });
 
 

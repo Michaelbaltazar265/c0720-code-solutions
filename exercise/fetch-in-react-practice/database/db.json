@@ -1,0 +1,74 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Learn to code.",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "task": "Build projects.",
+      "isCompleted": false
+    },
+    {
+      "id": 7,
+      "task": "Get a job.",
+      "isCompleted": false
+    },
+    {
+      "id": 8,
+      "task": "I think this works"
+    },
+    {
+      "id": 9,
+      "task": "I know this works now",
+      "isCompleted": "false"
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "task": "working",
+      "id": 12,
+      "isCompleted": "true"
+    },
+    {
+      "task": "do a barrel roll",
+      "isCompleted": "true",
+      "id": 13
+    },
+    {
+      "task": "clean house ",
+      "isCompleted": "false",
+      "id": 14
+    },
+    {
+      "task": "take dog on walk",
+      "isCompleted": false,
+      "id": 15
+    },
+    {
+      "task": "make dinner tonight",
+      "isCompleted": false,
+      "id": 16
+    },
+    {
+      "task": "vfsv",
+      "isCompleted": false,
+      "id": 17
+    },
+    {
+      "task": "I can add thing ",
+      "isCompleted": false,
+      "id": 18
+    },
+    {
+      "task": "vflnv;avavrv",
+      "isCompleted": false,
+      "id": 19
+    }
+  ]
+}
